@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/twoson.mp3-2a29ca05c98f2fc8d7a118c60b10394b.mp3str"
+
+[deps]
+
+source_file="res://Assets/twoson.mp3"
+dest_files=[ "res://.import/twoson.mp3-2a29ca05c98f2fc8d7a118c60b10394b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
